@@ -1,5 +1,13 @@
 # WeatherApp
 a simple Basic Webapp that helps us understand all the basics of API and its implementation and helps us to find weather of a city by taking city name as input
+
+
+
+
+
+
+
+
 To run this file follow the lead
 #1 Create a folder named as WeatherApp
 #2 put the app.js & index.html file in it
